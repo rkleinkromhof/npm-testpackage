@@ -1,0 +1,19 @@
+{
+  "name": "npm-testpackage",
+  "version": "1.0.1",
+  "description": "test package for how-to-npm",
+  "repository": "https://github.com/rkleinkromhof/npm-testpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "rkleinkromhof",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
