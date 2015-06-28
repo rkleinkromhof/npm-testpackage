@@ -1,6 +1,6 @@
 {
   "name": "npm-testpackage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test package for how-to-npm",
   "repository": "https://github.com/rkleinkromhof/npm-testpackage",
   "main": "index.js",
